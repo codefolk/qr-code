@@ -29,7 +29,7 @@ body {
     width: 100%;
 }
 
-section {
+.text{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,7 +46,7 @@ img {
 }
 
 .text h1 {
-    width: 20ch;
+    /* width: 20ch; */
     text-align: center;
     margin: 2rem auto 0 auto;
     font-size: 2rem;
@@ -57,7 +57,7 @@ img {
 }
 
 .text p {
-    width: 25ch;
+    /* width: 25ch; */
     text-align: center;
     font-size: 1.4rem;
     font-family: var(--font);
